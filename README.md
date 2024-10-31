@@ -37,8 +37,6 @@ This Flutter application visualizes financial data, specifically earnings and re
 
 4. **Interact with Data Points: Tap on any data point to view detailed financial transcripts related to that specific quarter.**
 
-## Demo Video
-<iframe width="560" height="315" src="https://youtube.com/shorts/hupygGWZIwY?feature=share" frameborder="0" allowfullscreen></iframe>
 
 ## Code Structure
 
@@ -51,3 +49,6 @@ This Flutter application visualizes financial data, specifically earnings and re
 **provider/:** State management classes for fetching and holding data.
 
 **views/:** UI components and pages, including SearchResultsPage that displays the charts.
+
+## Demo Video
+[Watch the demo video here](https://github.com/user-attachments/assets/0f6b8f6e-302b-4c9d-9638-b4cdf204a777)
